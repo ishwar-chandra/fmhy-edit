@@ -21,7 +21,7 @@
 * ⭐ **[WebOasis](https://weboasis.su/)**, [2](https://behu.io/), [3](https://ndsamuelson.github.io/weboas-is/) / [GitHub](https://github.com/ParrotDevelopers/WebOasis/)
 * ⭐ **[MONKNOW](https://www.monknow.com/)**
 
-[8bitdash](https://www.8bitdash.com/), [8 Bit Dashboard](https://8bitdashboard.com/), [Clippingmini](https://www.clippingmini.com/), [Draggo](https://draggo.com/), [Pearltrees](https://www.pearltrees.com/), [Nextcloud](https://apps.nextcloud.com/apps/bookmarks), [Cling](https://cling.com/), [Symbaloo](https://www.symbaloo.com/), [Tixio](https://tixio.io/), [Bento](https://github.com/migueravila/Bento), [nightly](https://github.com/damnitharshit/nightly), [Protopage](https://www.protopage.com/), [tilde](https://github.com/xvvvyz/tilde), [Fluidity](https://prettycoffee.github.io/fluidity/) / [GitHub](https://github.com/PrettyCoffee/fluidity), [AllMyFaves](https://allmyfaves.com/), [start.me](https://start.me/start/int/startpage)
+[Startpage](https://www.startpage.com/) / [Community Examples](https://www.reddit.com/r/startpages/) / [Subreddit](https://www.reddit.com/r/StartpageSearch/), [8bitdash](https://www.8bitdash.com/), [8 Bit Dashboard](https://8bitdashboard.com/), [Clippingmini](https://www.clippingmini.com/), [Draggo](https://draggo.com/), [Pearltrees](https://www.pearltrees.com/), [Nextcloud](https://apps.nextcloud.com/apps/bookmarks), [Cling](https://cling.com/), [Symbaloo](https://www.symbaloo.com/), [Tixio](https://tixio.io/), [Bento](https://github.com/migueravila/Bento), [nightly](https://github.com/damnitharshit/nightly), [Protopage](https://www.protopage.com/), [tilde](https://github.com/xvvvyz/tilde), [Fluidity](https://prettycoffee.github.io/fluidity/) / [GitHub](https://github.com/PrettyCoffee/fluidity), [AllMyFaves](https://allmyfaves.com/), [start.me](https://start.me/start/int/startpage)
 
 ### Customizable New Tab Page
 
@@ -42,17 +42,6 @@
 * [Khan Academy AP Chemistry](https://www.khanacademy.org/science/ap-chemistry-beta)
 * [Organic Chemistry etext](https://www.chem.ucalgary.ca/courses/351/Carey5th/Carey.html)
 * [PeriodicVideos](http://www.periodicvideos.com/)
-
-
-***
-
-## Covers / Posters
-
-* ⭐ **[Ben Dodson](https://bendodson.com/projects/itunes-artwork-finder/)**, [2](https://bendodson.com/projects/apple-tv-movies-artwork-finder/)
-* [BigBoxCollection](https://bigboxcollection.com/) - 3D Game Boxes
-
-[The Poster Database](https://theposterdb.com/), [Cover Century](https://www.covercentury.com/), [DVD Covers](https://www.dvd-covers.org/), [Gaming Alexandria](https://www.gamingalexandria.com/), [The Poster Collector](https://postercollector.co.uk/), [Movie Posters Gallery](https://www.moviepostersgallery.com/), [Film on Paper](https://www.filmonpaper.com/blog/), [GameTDB](https://www.gametdb.com/), [JoBlo](https://www.joblo.com/movie-posters/), [/r/MoviePosterPorn](https://www.reddit.com/r/MoviePosterPorn/), [IMP Awards](http://www.impawards.com/), [Fanart](https://fanart.tv/), [The Cover Project](https://www.thecoverproject.net/), [covercity](https://www.covercity.net/), [libretro](https://thumbnails.libretro.com/), [Mediux](https://mediux.pro/)
-
 
 ***
 
@@ -118,12 +107,6 @@
 
 ***
 
-## Domain Availability
-
-[atlaq](https://atlaq.com/), [namy.ai](https://namy.ai/), [Pyfunceble](https://pyfunceble.github.io/#/), [realtime.at](https://www.realtime.at/), [Host.io](https://host.io/), [Whois.com](https://www.whois.com/), [instantdomainsearch](https://instantdomainsearch.com/), [IWantMyName](https://iwantmyname.com/), [domaingarden](https://domain.garden/), [expireddomains](https://www.expireddomains.net/), [Domainr](https://domainr.com/), [domaintyper](https://domaintyper.com/), [Dotcombuddy](https://www.dotcombuddy.com/)
-
-***
-
 ## Encrypted XMPP Servers
 
 [Server List](https://xmpp.404.city/), [Hot Chilli](https://www.hot-chilli.eu/jabber/), [XMPP.jp](https://xmpp.jp/) / [xmpp.is](https://xmpp.is/), [dismail](https://dismail.de/), [blah](https://blah.im/), [404.city](https://404.city/)
@@ -135,14 +118,14 @@
 * 🌐 **[Public DNS indexes](https://www.publicdns.xyz/)** / [2](https://www.bestdns.org/) / [3](https://acavalin.com/p/free_dns) / [4](https://publicdnsserver.com/) / [5](https://public-dns.info/)
 * ⭐ **[Cloudflare 1.1.1.1](https://developers.cloudflare.com/1.1.1.1/ip-addresses/)**
 * ⭐ **[Quad9](https://quad9.net/)** - Malware, Phishing, Spyware & Botnet DNS Protection
+* ⭐ **[Mullvad](https://mullvad.net/en/help/dns-over-https-and-dns-over-tls)**
 * [NextDNS](https://nextdns.io) / [2](https://adguard-dns.io/kb/general/dns-providers/#nextdns)
 * [Unbound](https://www.nlnetlabs.nl/projects/unbound/) / [GitHub](https://github.com/NLnetLabs/unbound)
 * [Bancuh](https://bancuh.com/) / [GitHub](https://github.com/ragibkl/adblock-dns-server)
 * [Adguard](https://adguard-dns.io/en/public-dns.html)
-* [Mullvad](https://mullvad.net/en/help/dns-over-https-and-dns-over-tls)
 * [DNS for Family](https://dnsforfamily.com/)
-* [ClouDNS](https://www.cloudns.net/)
 * [Hurricane Electric](https://dns.he.net/)
+* [ DNS Bunker](https://dnsbunker.org/)
 * [dns0.eu](https://www.dns0.eu/)
 * [UncensoredDNS](https://blog.uncensoreddns.org/dns-servers/)
 * [dns.sb](https://dns.sb/)
@@ -155,7 +138,7 @@
 
 ***
 
-* [V2Nodes](https://v2nodes.com/) - Free V2Ray Servers
+* [V2Nodes](https://v2nodes.com/)
 * [RaceVPN](https://www.racevpn.com/)
 * [GreenSSH](https://www.greenssh.com/)
 * [vpn.fail](https://vpn.fail/)
@@ -169,6 +152,20 @@
 * [Mytunneling](https://www.mytunneling.com/)
 * [OpenTunnel](https://opentunnel.net/)
 * [Howdy](https://howdy.id/)
+
+***
+
+## Geometry Dash Demon Lists
+
+* ⭐ **[Pointercrate](https://pointercrate.com/demonlist/)** - Original Demon List / [Stats Viewer](https://pointercrate.com/demonlist/statsviewer/)
+* ⭐ **[AREDL](https://aredl.net/)** - All Rated Extreme Demons List
+* [Pemonlist](https://pemonlist.com/) - Rated Platformer Demon List
+* [Challenge List](https://challengelist.gd/challenges/) - Challenge Level List
+* [UDL](https://udl.pages.dev/) - Unrated Demons List
+* [IDL](https://insanedemonlist.com/) - Insane Demon List
+* [HRR Mobile List](https://mobilepointercrate.com/) - High Refresh Rate Mobile List
+* [Impossible Levels List](https://impossiblelevels.com/) / [Discord](https://discord.gg/MHx4Nbp)
+* [Nine Circles Demonlist](https://sites.google.com/view/nine-circles-demonlist/home)
 
 ***
 
@@ -441,18 +438,13 @@
 
 ***
 
-## Spotify Playlist Generators
-
-[Spotalike](https://spotalike.com/), [⁠Unheard.FM](https://unheard.fm/), [playlist-generator](https://www.playlist-generator.com/), [Chat Jams](https://www.chatjams.ai/), [MagicPlaylist](https://magicplaylist.co/), [Vibesition](https://vibesition.jordantwells.com/), [Groovifi](https://groovifi.com/), [spotgen](https://epsil.github.io/spotgen), [Highlights2SPotify](https://highlights2spotify.com/), [Predominantly](https://predominant.ly/)
-
-***
-
 ## Survival
 
 * ⭐ **[Survivor Library](https://www.survivorlibrary.com/)**
 * [SurvivalManual](https://github.com/ligi/SurvivalManual) / [App](https://survivalmanual.github.io/)
 * [/r/Preppers](https://www.reddit.com/r/preppers/)
 * [Trail Sense](https://kylecorry.com/Trail-Sense/) - Wilderness Survival App / [GitHub](https://github.com/kylecorry31/Trail-Sense)
+
 [OffGridDownload](https://t.me/offgriddownload), [ExploreMarMaris](http://www.exploremarmaris.com/read/Survival/), [/r/PrepperFileShare](https://reddit.com/r/PrepperFileShare), [The Preparedness Encyclopedia](https://www.fluidicice.com/tpe)
 
 ***
@@ -477,16 +469,6 @@
 * ⭐ **[Simple Tab Groups](https://github.com/drive4ik/simple-tab-groups)**
 
 [OneTab](https://www.one-tab.com/), [Tab Center Reborn](https://framagit.org/ariasuni/tabcenter-reborn), [Tab Stash](https://josh-berry.github.io/tab-stash/), [Tab Butler](https://tabbutler.netlify.app/), [One Tab Group](https://www.tabdeck.so/), [TreeStyleTabs](https://github.com/piroor/treestyletab)
-
-***
-
-## Telegram Anime Downloads
-
-* https://t.me/Anime_Ocean_Backup
-* https://t.me/anidlws
-* https://t.me/for_otaku
-* https://t.me/Any_Animebot
-* https://t.me/myanimetvbot
 
 ***
 
