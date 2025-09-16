@@ -1,7 +1,7 @@
 # Contribute Guide
 
 > [!INFO] NOTE
-> Some of these steps are easier if you're in our [Discord](https://rentry.co/fmhy-invite). It opens every Friday.
+> Some of these steps are easier if you're in our [Discord](https://github.com/fmhy/FMHY/wiki/FMHY-Discord). It opens every Friday.
 
 Here you'll find some general guidelines for those who would like to start contributing. There are multiple ways to do this: 
 
@@ -13,15 +13,15 @@ Here you'll find some general guidelines for those who would like to start contr
 ## Submissions
 
 > [!INFO] NOTE
-> For bigger changes to the wiki, such as debloating efforts or the restructuring of a page/section, you must first discuss these with us via [Discord](https://rentry.co/fmhy-invite) before opening a [Pull Request](https://github.com/fmhy/edit/pulls).
+> For bigger changes to the wiki, such as debloating efforts or the restructuring of a page/section, you must first discuss these with us via [Discord](https://github.com/fmhy/FMHY/wiki/FMHY-Discord) before opening a [Pull Request](https://github.com/fmhy/edit/pulls).
 
 **Don't submit any of the following:**
 
-- **💰️ Paid / Trial Sites** - We don't accept any paid or free trial only entries, with the exception of select paid [VPNs](/adblockvpnguide#vpn) and [Debrid](/downloadpiracyguide#leeches-debrid).
-- **🕹️ Emulators** - Already listed on [Index Sites](/gamingpiracyguide#emulators).
-- **🌐 Web Browsers** - Already listed on [Comparison / Index Sites](/internet-tools#browser-tools). However, we accept privacy-based ones as well as normal mobile browsers.
-- **🔻 Leeches** - Unless it's not already listed on existing [Leech Lists](/downloadpiracyguide#leeches-debrid), don't submit these.
-- **🐧 Linux Distros** - Already listed on [Index Sites](/linuxguide#linux-distros).
+- **💰️ Paid / Trial Sites** - We don't accept any paid or free trial only entries, with the exception of select paid [VPNs](/privacy#vpn) and [Debrid](/downloading#leeches-debrid).
+- **🕹️ Emulators** - Already listed on [Index Sites](/gaming#emulators).
+- **🌐 Web Browsers** - Good open-source browsers are already listed, so we just accept [indexes](/internet-tools#browser-tools), privacy-focused, and good mobile ones.
+- **🔻 Leeches** - Unless it's not already listed on existing [Leech Lists](/downloading#leeches-debrid), don't submit these.
+- **🐧 Linux Distros** - Already listed on [Index Sites](/linux-macos#linux-distros).
 - **🌍 Non-english Software** - We don't add non-english software sites (APKs, games, torrents, etc.) unless they have a very good reputation.
 - **🗂️ Coding Libraries** - There's too many of them and there are better places to find them.
 - **🎲 Mining / Betting Sites** - Don't submit anything related to betting, mining, BINs, CCs, etc.
@@ -33,9 +33,8 @@ Here you'll find some general guidelines for those who would like to start contr
 For submitting new links, follow these steps:
 
 - Make sure it's not already in the wiki. The easiest way to do this is to check our [Single Page](https://api.fmhy.net/single-page) using `ctrl+f`.
-- Reach out via the feedback system, by opening an [Issue](https://github.com/fmhy/edit/issues), or join our [Discord](https://rentry.co/fmhy-invite).
+- Reach out via the feedback system, [GitHub](https://github.com/fmhy/edit), or join our [Discord](https://github.com/fmhy/FMHY/wiki/FMHY-Discord).
 - You can optionally include socials, tools, or any other additional info alongside the entry.
-- Avoid opening pull requests. See [Link Testing](#link-testing) for more info.
 
 ### Reporting a Site
 
@@ -44,13 +43,13 @@ For submitting new links, follow these steps:
 
 For changes to existing entries, follow these steps:
 
-- Reach out via any of the available methods, including opening a [Pull Request](https://github.com/fmhy/edit/pulls).
+- Reach out via the feedback system, [GitHub](https://github.com/fmhy/edit), or join our [Discord](https://github.com/fmhy/FMHY/wiki/FMHY-Discord).
 - Feel free to leave contact info when using the feedback system, if needed. Only trusted staff can view this.
 - If you'd like to report a site removal or star change, you must include details as to why your changes should be accepted.
 
 ### Link Testing
 
-All additions have to first go through our testing process on [Discord](https://rentry.co/fmhy-invite).
+All additions have to first go through our testing process on [Discord](https://github.com/fmhy/FMHY/wiki/FMHY-Discord).
 
 You can help us test new sites to figure out their use-case, safety, and whether they'd be a good fit for the wiki.
 
@@ -62,7 +61,9 @@ The wiki will always have some variation either due to exceptions being made, th
 
 For these reasons, there are too many conditions and nuances to satisfy to make an easy-to-follow guide. However, you can generally get an idea by looking at how existing links are structured.
 
-If you're unsure, ask in the wiki channels on [Discord](https://rentry.co/fmhy-invite) and wait for a staff member to reply.
+Note that we do try to order sections from best to worst, and if multiple links are on the same line, only the **bold** ones are considered stars.
+
+If you're unsure, ask in the wiki channels on [Discord](https://github.com/fmhy/FMHY/wiki/FMHY-Discord) and wait for a staff member to reply.
 
 ## Making Changes
 
@@ -100,7 +101,7 @@ If you're going to work on the site itself, or simply want to preview the site a
 
 #### GitHub Codespaces
 
-This creates an environment in the browser [(with 60h/month free quota)](https://docs.github.com/en/billing/managing-billing-for-your-products/about-billing-for-github-codespaces#monthly-included-storage-and-core-hours-for-personal-accounts). To use Codespaces, follow these steps:
+This creates an environment in the browser [(with 60h/month free quota)](https://docs.github.com/en/billing/concepts/product-billing/github-codespaces#free-and-billed-use-by-personal-accounts). To use Codespaces, follow these steps:
 
 1. Fork the repository by clicking the "Fork" button in the top right.
 
@@ -118,6 +119,6 @@ This creates an environment in the browser [(with 60h/month free quota)](https:/
 
 #### Local Instance
 
-Making changes on a local repository may require a basic understanding of Git. You can find learning resources [here](/edupiracyguide#developer-learning).
+Making changes on a local repository may require a basic understanding of Git. You can find learning resources [here](/educational#developer-learning).
 
 More info on manual setup can be found [here](/other/selfhosting).
